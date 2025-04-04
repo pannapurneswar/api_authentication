@@ -1,6 +1,8 @@
 
 # Welcome to your CDK Python project!
 
+change the url "https://cognito-idp.us-west-2.amazonaws.com/" to your cognito instance region in file "AWSAuthLambdaContainerFunction.py"
+
 This is a blank project for CDK development with Python.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
